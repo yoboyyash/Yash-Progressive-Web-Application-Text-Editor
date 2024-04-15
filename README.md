@@ -2,7 +2,7 @@
 
 # Yash's Progressive Web Application: Text Editor
 
-## Made by Jate, let's Edit some text!
+## Jate, let's Edit some text!
 
 Table of Contents
   
